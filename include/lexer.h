@@ -15,15 +15,24 @@ private:
     int start = 0; //start index of current token
     int curr = 0; 
     int line = 1;
-    int column = 1;
+    int col = 1;
 
     std::vector<Token> tokens;
 
     //helper funcs (add more as you implement)
-    bool isAtEnd() const;
     
     void scanToken();
-    void addToken(TokenType t, const std::string& lexeme);
+    void addToken(TokenType t, const std::string& lexeme, int startCol);
+
+    void handleIdentifier(int tokenStartCol);
+    void handleNumber(int tokenStartCol);
+    void handleString(int tokenStartCol);
+
+    bool isAtEnd() const;
+    char advance();
+    char peek();
+    bool match(char expected);
+
 
 };
 
