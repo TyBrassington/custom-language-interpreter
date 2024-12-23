@@ -19,8 +19,6 @@ enum class TokenType {
 
     IF, ELSE, FOR, WHILE, RETURN, TRUE, FALSE, FUNC, VAR, CLASS, PRINT, INPUT,
 
-    COMMENT_LINE, COMMENT_BLOCK,
-
     END_OF_FILE
 };
 
@@ -64,9 +62,6 @@ inline std::string tokenTypeToString(TokenType t) {
         case TokenType::CLASS: return "CLASS";
         case TokenType::PRINT: return "PRINT";
         case TokenType::INPUT: return "INPUT";
-
-        case TokenType::COMMENT_LINE: return "COMMENT_LINE";
-        case TokenType::COMMENT_BLOCK: return "COMMENT_BLOCK";
 
         case TokenType::END_OF_FILE: return "END_OF_FILE";
 

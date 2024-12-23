@@ -18,6 +18,13 @@ private:
     int column = 1;
 
     std::vector<Token> tokens;
+
+    //helper funcs (add more as you implement)
+    bool isAtEnd() const;
+    
+    void scanToken();
+    void addToken(TokenType t, const std::string& lexeme);
+
 };
 
 #endif
