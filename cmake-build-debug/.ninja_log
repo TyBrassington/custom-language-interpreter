@@ -1,0 +1,12 @@
+# ninja log v5
+5	434	7566553405338714	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+0	498	7566553405979301	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
+2	372	7566554921846392	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
+2	382	7566555110637907	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
+383	481	7566555111588764	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+3	387	7566557462114114	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+387	484	7566557463054967	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+2	354	7566559447564121	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+5	358	7566560370789003	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+2	382	7566560371029220	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
+382	474	7566560371940047	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
