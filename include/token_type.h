@@ -24,7 +24,7 @@ enum class TokenType {
     END_OF_FILE
 };
 
-inline std::string token_type_to_string(TokenType t) {
+inline std::string tokenTypeToString(TokenType t) {
     switch (t) {
         case TokenType::LEFT_PAREN: return "LEFT_PAREN";
         case TokenType::RIGHT_PAREN: return "RIGHT_PAREN";
