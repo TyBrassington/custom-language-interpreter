@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Ty/Documents/Custom Language Interpreter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Custom_Language_Interpreter.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Custom_Language_Interpreter.dir\\src\\lexer.cpp.obj -c \"C:\\Users\\Ty\\Documents\\Custom Language Interpreter\\src\\lexer.cpp\"",
+  "file": "C:/Users/Ty/Documents/Custom Language Interpreter/src/lexer.cpp",
+  "output": "CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ty/Documents/Custom Language Interpreter/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Custom_Language_Interpreter.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Custom_Language_Interpreter.dir\\src\\main.cpp.obj -c \"C:\\Users\\Ty\\Documents\\Custom Language Interpreter\\src\\main.cpp\"",
+  "file": "C:/Users/Ty/Documents/Custom Language Interpreter/src/main.cpp",
+  "output": "CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj"
+}
+]

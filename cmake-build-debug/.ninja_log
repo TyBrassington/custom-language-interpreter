@@ -1,12 +1,16 @@
 # ninja log v5
-5	434	7566553405338714	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-0	498	7566553405979301	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
-2	372	7566554921846392	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
-2	382	7566555110637907	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
-383	481	7566555111588764	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-3	387	7566557462114114	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-387	484	7566557463054967	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-2	354	7566559447564121	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
 5	358	7566560370789003	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
 2	382	7566560371029220	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
 382	474	7566560371940047	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+2	507	7567454821497275	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+507	731	7567454823719299	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+3	394	7567460879960409	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+395	493	7567460880921275	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+2	392	7567461778296498	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+393	488	7567461779237353	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+3	376	7567464030882872	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+376	466	7567464031763669	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+2	365	7567465947363898	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+365	455	7567465948254713	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+3	378	7567466556617379	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
+378	469	7567466557488173	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
