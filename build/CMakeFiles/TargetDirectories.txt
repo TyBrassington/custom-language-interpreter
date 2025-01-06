@@ -1,3 +1,0 @@
-C:/Users/Ty/Documents/Custom Language Interpreter/build/CMakeFiles/Custom_Language_Interpreter.dir
-C:/Users/Ty/Documents/Custom Language Interpreter/build/CMakeFiles/edit_cache.dir
-C:/Users/Ty/Documents/Custom Language Interpreter/build/CMakeFiles/rebuild_cache.dir
