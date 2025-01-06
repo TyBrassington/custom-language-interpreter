@@ -1,16 +1,12 @@
-# ninja log v5
-5	358	7566560370789003	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-2	382	7566560371029220	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	c4efdbbef7ea1907
-382	474	7566560371940047	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-2	507	7567454821497275	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-507	731	7567454823719299	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-3	394	7567460879960409	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-395	493	7567460880921275	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-2	392	7567461778296498	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-393	488	7567461779237353	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-3	376	7567464030882872	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-376	466	7567464031763669	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-2	365	7567465947363898	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-365	455	7567465948254713	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
-3	378	7567466556617379	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	afff4ad9c7a05b78
-378	469	7567466557488173	Custom_Language_Interpreter.exe	b4d794d4f4bb34df
+# ninja log v6
+16	438	7579060439764885	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	cd7b7c748cdb00a0
+12	440	7579060439724198	CMakeFiles/Custom_Language_Interpreter.dir/src/lexer.cpp.obj	e1929ad2c49c3857
+441	585	7579060444011314	Custom_Language_Interpreter.exe	85ab02e0eb65a41f
+27	843	7579070013729889	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	cd7b7c748cdb00a0
+843	1009	7579070021822615	Custom_Language_Interpreter.exe	85ab02e0eb65a41f
+27	668	7579070235226743	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	cd7b7c748cdb00a0
+669	793	7579070241652654	Custom_Language_Interpreter.exe	85ab02e0eb65a41f
+27	601	7579070369894459	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	cd7b7c748cdb00a0
+602	718	7579070375645714	Custom_Language_Interpreter.exe	85ab02e0eb65a41f
+23	701	7579072866612895	CMakeFiles/Custom_Language_Interpreter.dir/src/main.cpp.obj	cd7b7c748cdb00a0
+701	842	7579072873392630	Custom_Language_Interpreter.exe	85ab02e0eb65a41f

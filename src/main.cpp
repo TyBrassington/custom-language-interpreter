@@ -1,6 +1,17 @@
+#include <fstream>
+#include <iterator>
 #include <iostream>
 #include <vector>
 #include "../include/lexer.h"
+
+void writeTokensToFile(const std::vector<Token>& tokens) {
+    std::ofstream file;
+    file.open("../test.txt");
+    for (const auto & token : tokens) {
+        file << token.toString() << std::endl;
+    }
+    file.close();
+}
 
 bool testLexer() {
     std::string source = "if (a == 10) print(a);";
@@ -29,7 +40,7 @@ bool testLexer() {
         return false;
     }
 
-    for (size_t i = 0; i < tokens.size(); ++i) {
+    for (size_t i = 0; i < tokens.size(); i++) {
         if (tokens[i].type != expectedTokens[i].type ||
             tokens[i].lexeme != expectedTokens[i].lexeme ||
             tokens[i].line != expectedTokens[i].line ||
@@ -46,7 +57,7 @@ bool testLexer() {
             return false;
         }
     }
-
+    writeTokensToFile(tokens);
     return true;
 }
 
