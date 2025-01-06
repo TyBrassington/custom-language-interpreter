@@ -8,4 +8,6 @@ include_directories(include)
 add_executable(Custom_Language_Interpreter
         src/lexer.cpp
         src/main.cpp
+        src/parser.cpp
+        include/parser.h
 )
